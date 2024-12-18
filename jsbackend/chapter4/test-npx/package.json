@@ -1,0 +1,7 @@
+{
+  "name": "prettier",
+  "bin": "./bin-prettier.js",
+  "dependencies": {
+    "prettier": "^3.4.2"
+  }
+}
