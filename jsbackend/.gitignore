@@ -1,0 +1,7 @@
+# Ignore chapter folder
+chapter6/
+chapter7/
+
+# Optionally, add other folders or files to ignore
+node_modules/
+*.log
